@@ -5,7 +5,7 @@
 
 - 📝 I write blogs on [Dev](https://dev.to/shivam164)
 
-- 📫 How to reach me through [LinkedIn](https://www.linkedin.com/in/shivam164/)
+- 📫 I am currently an undergraduate, doing B.Tech. in the field of Mathematics and Computing.
 
 <h3 align="left">Connect with me:</h3>
 
