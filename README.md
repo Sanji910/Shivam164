@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar Pandey</h1>
 <h3 align="center">I am a MERN stack web developer, open source contributor and competitive programmer.</h3>
 
-- 🌱 I’m currently learning **AWS Solution Architect**
+- 🌱 I’m currently learning **Devops**
 
 - 📝 I write blogs on [Dev](https://dev.to/shivam164)
 
